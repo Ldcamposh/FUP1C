@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'algortimo  que saca el equivalente de megas, a gigabytes'
+5
+1
+1
+a
+6
+2
+1
+b
+6
+a*1000
+1
+c
+6
+a*2128
+4
+1
+26
+'el valor en gigas es',  b
+4
+1
+26
+'el valor en teras es',  c
+4
+1
+64
+'algortimo  que saca el equivalente de megas, a kilobytes,bytes'
+5
+1
+1
+d
+6
+2
+1
+f
+6
+d*1230
+1
+g
+6
+d*2345
+4
+1
+24
+'el valor en megas es',f
+4
+1
+24
+'el valor en bytes es',g
+4
+1
+20
+'megas a kilo bytes'
+5
+1
+1
+H
+6
+1
+1
+i
+6
+h*2000
+4
+1
+28
+'el valor en kilobytes es',h
+1

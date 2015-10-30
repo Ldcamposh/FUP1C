@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'algortimo de dos numeros que suma,resta,multiplica y divide'
+5
+1
+2
+N1
+5
+1
+2
+N2
+6
+1
+9
+Resultado
+5
+N1+N2
+4
+1
+38
+"el resultado de la suma es",resultado
+6
+1
+9
+Resultado
+5
+N1-N2
+4
+1
+38
+"el resultado de la suma es",resultado
+6
+1
+9
+Resultado
+5
+N1*N2
+4
+1
+48
+"el resultado de la multiplicacion es",resultado
+6
+1
+9
+Resultado
+5
+N1/N2
+4
+1
+42
+"el resultado de la division es",resultado
+1

@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+19
+'Etapas de la vida'
+4
+1
+65
+'En que etapa de la vida está una persona, de acuerdo a su edad.'
+5
+1
+2
+N1
+7
+0
+1
+5
+N1<=2
+7
+0
+1
+16
+N1<=12 and N1>=3
+7
+0
+1
+17
+N1<=18 and N1>=13
+7
+1
+1
+17
+N1<=24 and N1>=19
+4
+1
+24
+'La persona es un Joven'
+13
+7
+1
+1
+17
+N1<=59 and N1>=30
+4
+1
+26
+'La persona es un Adulto.'
+13
+7
+1
+1
+6
+N1>=60
+4
+1
+32
+'La persona es un adulto mayor.'
+13
+13
+13
+13
+13
+4
+1
+30
+'La persona es un adolescente'
+13
+13
+4
+1
+23
+'La persona es un niño'
+13
+13
+4
+1
+24
+'La persona es un bebé.'
+13
+1
