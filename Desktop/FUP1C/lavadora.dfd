@@ -1,0 +1,127 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+17
+Programa lavadora
+4
+1
+54
+'¿Qué tipo de ropa es?
+1=Delicada
+2=Normal
+3=Sucia'
+5
+1
+4
+Tipo
+6
+3
+8
+Delicada
+1
+1
+6
+Normal
+1
+2
+5
+Sucia
+1
+3
+7
+0
+1
+6
+Tipo=1
+7
+0
+1
+6
+Tipo=2
+7
+0
+1
+6
+Tipo=3
+4
+1
+34
+'Reintente con un tipo del 1 al 3'
+13
+4
+1
+12
+'20 minutos'
+13
+13
+4
+1
+12
+'10 minutos'
+13
+13
+4
+1
+11
+'5 minutos'
+13
+4
+1
+23
+'Kilos de ropa a lavar'
+5
+1
+5
+Kilos
+7
+1
+1
+9
+Kilos<=10
+4
+1
+14
+'Nivel mínimo'
+13
+7
+1
+1
+23
+Kilos<=15 and Kilos>=11
+4
+1
+13
+'Nivel medio'
+13
+7
+1
+1
+24
+Kilos<=20 and Kilos >=16
+4
+1
+14
+'Nivel máximo'
+13
+7
+1
+1
+9
+Kilos>=21
+4
+1
+36
+'Sobrecarga. Quite un poco de ropa.'
+13
+4
+1
+26
+'Escriba un numero válido'
+13
+13
+13
+13
+1
