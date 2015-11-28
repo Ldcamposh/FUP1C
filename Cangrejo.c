@@ -4,6 +4,9 @@
 int profundidad;
 int progreso;
 int perdida;
+int numeroS;
+int avance;
+int suma=0;
 int i=1;
 
 int main()
@@ -39,16 +42,14 @@ int main()
 	
 	if(progreso > perdida)
 	{
-		while(progreso < profundidad)
-	{
-		progreso=progreso-perdida;
-		i=i+1;
-		i-1;
+		for(numeroS=0;suma<=profundidad;numeroS++)
+		{
+			avance=progreso-perdida;
+			suma=suma+avance;
+		}
 		
-	}
-		printf("El cangrejo lograra salir al dia: %d\n", i);
-		printf("Tal vez menos. Jaja :(\n");
-	
+		printf("el cangrejo sale en el dia %d\n",numeroS);
+		
 	}
 	//Requisitos del trabajo; valores correctos, funcionamiento con: no avance, avance igual, mas metros avance que profundidad
 
